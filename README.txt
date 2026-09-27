@@ -29,3 +29,4 @@ Still to fill in
   - The two-line story of how Annam Woodworks began, and where the workshop is
     (marked in index.html with square brackets).
   - Customer names for the three reviews, if they agree to be named.
+Mobile Responsive Update
